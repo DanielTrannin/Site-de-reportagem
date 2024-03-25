@@ -4,13 +4,17 @@ background-color: white;
 color: black;
 font-size: 12pt;
 font-family: sarina;
+  text-align: center;
 }
 h1{
 color: black;
+  text-align: center;
 }
 h2{
 color: black; 
+  text-align: center;
 }
 a{
 color: blue;
+  text-align: center;
 }
